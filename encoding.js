@@ -1,5 +1,5 @@
 /*
-  
+  http://stackabuse.com/encoding-and-decoding-base64-strings-in-node-js/
 */
 
 'use strict';
